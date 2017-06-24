@@ -1,4 +1,4 @@
-# react-native-notes
+- # react-native-notes
 React Native notes and best practices
 
 # Tools
@@ -9,6 +9,7 @@ React Native notes and best practices
 - detox for E2E testing
 - Prettier-ESLINT for code formatting
 - Storybook for component style guid
+- reactotron for inspecting the app
 
 # Must have libraries
 - redux
@@ -28,4 +29,12 @@ React Native notes and best practices
 - react-native-spinkit
 - react-native-linear-gradient
 - react-native-wheel-picker
+- react-native-slider
 - d3
+- i18n
+- realm
+- react-native-slite-storage
+- react-native-htmltext
+- apisauce
+
+
