@@ -36,5 +36,6 @@ React Native notes and best practices
 - react-native-slite-storage
 - react-native-htmltext
 - apisauce
+- react-native-splash-screen
 
 
