@@ -3,3 +3,6 @@
 - Use react-native-keyboard-aware-scroll-view (not sure if it interfere with the child ScrollView or ListView)
 - Use keyboardWillShow and keyboardWillHide events and animate some elements on the screen
 
+## Clean up app after upgrading RN version 
+
+Delete node_modules folder, shut down all processes, yarn install, cmd+shift+k to clean the build, cmd+shift+b to create the build, and then cmd + r
