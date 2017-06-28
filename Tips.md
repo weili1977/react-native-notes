@@ -6,3 +6,8 @@
 ## Clean up app after upgrading RN version 
 
 Delete node_modules folder, shut down all processes, yarn install, cmd+shift+k to clean the build, cmd+shift+b to create the build, and then cmd + r
+
+## Schedule long running task after gesture/animation completion
+
+Use InteractionManager.runAfterInteractions
+
