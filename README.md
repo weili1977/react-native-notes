@@ -1,4 +1,4 @@
-- # react-native-notes
+# react-native-notes
 React Native notes and best practices
 
 # Tools
