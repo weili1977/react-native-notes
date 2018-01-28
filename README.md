@@ -37,5 +37,6 @@ React Native notes and best practices
 - react-native-htmltext
 - apisauce
 - react-native-splash-screen
+- react-native-extended-stylesheet
 
 
