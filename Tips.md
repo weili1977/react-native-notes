@@ -11,3 +11,6 @@ Delete node_modules folder, shut down all processes, yarn install, cmd+shift+k t
 
 Use InteractionManager.runAfterInteractions
 
+##SIZE MATTERS: HOW I USED REACT NATIVE TO MAKE MY APP LOOK GREAT ON EVERY DEVICE
+
+https://blog.solutotlv.com/size-matters/
