@@ -10,6 +10,8 @@ React Native notes and best practices
 - Prettier-ESLINT for code formatting
 - Storybook for component style guid
 - reactotron for inspecting the app
+- Zeplin for UI design
+- Sketch for UI design
 
 # Must have libraries
 - redux
